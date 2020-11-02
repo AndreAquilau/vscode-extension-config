@@ -9,7 +9,7 @@
   - > Click control painel => Fonts coloque as fonts ttf e coloque na tela de fonts
   - > In VScode options => settings => open json.
   - > Reload VScode
-```json
+```js
 /*add two line in settings.json*/
 "editor.fontFamily": "Fira Code",
 "editor.fontLigatures": true,
@@ -24,10 +24,10 @@ const soma = () => {
 - Install Extension **Color HighLight** quando utiliza cores em hexadecimal mostra a cor no fundo.
 - Install Extension **Rainbow Rrackets** coloca uma cor diferente para cada abertura e fechamento de parênteses (()).
 - Install Extension **Material Icon Theme** vai colocar icones para os arquivos e pastas.
-> Icones Personalizados => associations
-> settings.json
-> Verificar na biblioteca de icons do material icon e escolher uma.
-```json
+  - > Icones Personalizados => associations
+  - > settings.json
+  - > Verificar na biblioteca de icons do material icon e escolher uma.
+```js
     /*icons de arquivos*/
     "material-icon-theme.files.associations": {
 
