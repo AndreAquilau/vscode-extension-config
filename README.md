@@ -4,11 +4,11 @@
 - Install Extension Theme Dracula Official **Dracula**.
 - Install Extension **Reload**.
 - Font **Fira Code** [link](https://github.com/tonsky/FiraCode)
-> How to Install => VScode
-> Download & Install Fire_Code.zip
-> Click control painel => Fonts coloque as fonts ttf e coloque na tela de fonts
-> In VScode options => settings => open json.
-> Reload VScode
+  - > How to Install => VScode
+  - > Download & Install Fire_Code.zip
+  - > Click control painel => Fonts coloque as fonts ttf e coloque na tela de fonts
+  - > In VScode options => settings => open json.
+  - > Reload VScode
 ```json
 /*add two line in settings.json*/
 "editor.fontFamily": "Fira Code",
